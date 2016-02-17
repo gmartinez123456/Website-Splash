@@ -15,6 +15,7 @@
         <!------------------------------------------>
     		<div class="linkbar" id="nav">
     			<ul>
+    			  <li><a class="link" href="http://2016.discobots.org/">2016</a></li>
     			  <li><a class="link" href="http://2015.discobots.org/">2015</a></li>
     			  <li><a class="link" href="http://2014.discobots.org/">2014</a></li>
     			  <li><a class="link" href="http://2013.discobots.org/">2013</a></li>
